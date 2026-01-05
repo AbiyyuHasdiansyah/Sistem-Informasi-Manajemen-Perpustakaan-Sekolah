@@ -1,0 +1,47 @@
+/* Background utama dashboard */
+html, body {
+    background-color: #ffffff !important;
+}
+
+/* Area konten */
+.fi-main,
+.fi-page,
+.fi-layout {
+    background-color: #ffffff !important;
+}
+
+/* Card */
+.fi-card {
+    background-color: #ffffff !important;
+    border: 1px solid #e5e7eb;
+    box-shadow: 0 1px 3px rgba(0,0,0,.08);
+}
+
+/* Sidebar */
+.fi-sidebar {
+    background-color: #ffffff !important;
+    border-right: 1px solid #e5e7eb;
+}
+
+/* Header */
+.fi-topbar {
+    background-color: #ffffff !important;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+/* Judul halaman */
+.fi-header-heading {
+    font-weight: 600;
+    color: #1f2937;
+}
+
+/* Sidebar menu */
+.fi-sidebar-item-label {
+    font-size: 14px;
+}
+
+/* Table */
+.fi-ta-table {
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+}
